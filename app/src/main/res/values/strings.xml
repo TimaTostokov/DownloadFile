@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DownloadFile</string>
+    <string name="downloaded">Файл скачан!</string>
+    <string name="download">Скачать</string>
+    <string name="hint">Вставьте ссылку на файл</string>
+    <string name="error">Такого файла не сущесвует</string>
+    <string name="todo">TODO</string>
+</resources>
